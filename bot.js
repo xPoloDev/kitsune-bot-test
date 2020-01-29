@@ -17,4 +17,4 @@ client.on('message', message => {
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login('NjcyMDc3NTg5MTYyMDk4Njkx.XjGYgg.JDnATL69Didc8e_amq70OUuqiak');
+client.login('');
